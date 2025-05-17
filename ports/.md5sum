@@ -1,0 +1,13 @@
+ffcfbdbd1979f51825fa796a6296d1ab  contrib.rsync.inactive
+653b4ec8b85f812d7b82d02fc82a2379  core-arm.httpup
+8cc84b5ed58114c20bf556774a9d4278  core-arm.pub
+9a7ec7bdf5155fbedb02b35e50420cfa  core.rsync
+e55e00b32b377817c06b3fc5fafcb77a  cubieboard-arm.httpup
+7efd0159fd735591c7735e4ea3f28cfb  cubieboard-arm.pub
+ab5005cb2b4e9d0b783da1d6e59b680b  opt-arm.httpup
+5c94921bee9441abfd6d72869d8e3b69  opt-arm.pub
+92891482d508900cd6208bdad41f549d  opt.rsync
+902e3ddb9b4930975c7edb5c3c749c8c  ports-1.6.tar.gz
+4e4498a2ba771a30257a9d447329bca8  xorg-arm.httpup
+093976ed22eb0418721096175b2bd276  xorg-arm.pub
+939e6f38e938a2ba615e76f40b504c79  xorg.rsync
