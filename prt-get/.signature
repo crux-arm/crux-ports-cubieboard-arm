@@ -1,7 +1,7 @@
 untrusted comment: verify with /etc/ports/cubieboard-arm.pub
-RWTveype2j7buMPW+k8lvPDdG7HwCSrEkL47JmCNBkzLhRfu/Pq4Xy8I7dcANlcnrH2mpsbcQ+5QLOoH3uuNDoJmbQ5VyuKiuQ0=
+RWTveype2j7buHplnvttTzpDa9PSMWCOLvUyfHxbQx8UaYX83c7E21BJuDUrFkZPiJfAcxDdoYXSudEpXdCrtGyQ1x1N69k4sA0=
 SHA256 (Pkgfile) = 610f93dddc825b9d3286c0c5f7a85afebfcf6256953e7f1be94426ceafab9d6d
 SHA256 (.footprint) = 12d1231f25d72b3e48de99169f3bad80b3c5cd749ccc5744605e85a552d4f91c
 SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
 SHA256 (prt-get.conf) = b26a77fb2f63685d88aaa9beacca94e94927bbe7bf2e49c15b798ed0f4f507bd
-SHA256 (prt-get.aliases) = df473d38e59d1d6cd859d986a5d6586fdc54bfd51663313c63a939e941984b7b
+SHA256 (prt-get.aliases) = 2603ea52a4dd4263898b2ca5219b19963e84714c990c5fa80dcc0a82d2dd65e5
