@@ -1,17 +1,17 @@
 untrusted comment: verify with /etc/ports/cubieboard-arm.pub
-RWTveype2j7buLpysprp/IIlAGwJg4YezeqrUDBAWcwoPeYMdmTfJZ+t/ydExhp3DbMU+OIhnLD+mJaek/Igi1iJ/UcuAytsqgA=
-SHA256 (Pkgfile) = 128334e3b684d627bf72337ab3e57da5c97528e676f62d08ad52222ee92ae53d
-SHA256 (.footprint) = 175ee9ced38b7cd1105761c08e8d3cd62bbc7b4c37920132aa3fe2c164ec0bdc
+RWTveype2j7buGJ0v0IhqrWW0G5p5fPHzKwJXbbfwID0nfsvnysRpwlUosvpc9xfHAGJKxpDufFw4tr0JejQJHtZBxotnROFKgI=
+SHA256 (Pkgfile) = 1e34ed463304f70ce9821a9420e6848bc03327d6fd55442d7fcc90bb25c37da6
+SHA256 (.footprint) = c9f5dcb93c6912ac844acfb9479e4774e723a0c38c82a456542c82ba6a9b025d
 SHA256 (ports-1.6.tar.gz) = 8b2ba48e7440f4a71fa1c9c480a1212ce87c623e1d33121eb660829ba294ca94
 SHA256 (core.rsync) = 3c519f28a8b8593edcfcfb5f059f7483356776702bfba0ca7a61a1026bb85bd0
 SHA256 (opt.rsync) = 9d1a6f55491550406bedba8c62bacd5d2664689548e3c33a3227dc6ba890f192
 SHA256 (xorg.rsync) = 65ccbb020ab33484a834d7f2e71e3084ce2e51fdc4a33a1d8f13a72bdec02f60
 SHA256 (contrib.rsync.inactive) = fb1460b95b525478f9fb062fa21e209cf1ed449f3016a2bc89c4b5329a5fdaf8
-SHA256 (core-arm.httpup) = 78670a5babc71bc3c850355d24b6e2ba5e33f1b1a8ee060e5455a298f9716105
-SHA256 (opt-arm.httpup) = 4dad3a0c0c99605574c7781f3fdad72717483e1ca414b242cd7e6168a90861e2
-SHA256 (xorg-arm.httpup) = 06b7de0b1e09f12c4c737ce1e068764f36bdf74816c01e9f68814c0a4b1fe239
+SHA256 (core-arm.rsync) = f6ff6a550b3d07ffd5c372446785d2e1209b95c3949e551e3782250cfc7c59c1
+SHA256 (opt-arm.rsync) = c0178f49b64215d4fbeb86f658fdbef0a0c4a7baafb6e9b59ecfa2c635d6f4b4
+SHA256 (xorg-arm.rsync) = 44bbbb58ed0fb5dbcd03531cd3b31ea49c003b57aa1ae69bed5dcdd730072ee6
 SHA256 (core-arm.pub) = e2b863731f5f282d4c5f1ec4a8d687409e5c44c7050b1c07532c25a7f343c48e
 SHA256 (opt-arm.pub) = b24e7d0ce48b220938d8a192755e19644dee11c6a34c4328207456394790ab1f
 SHA256 (xorg-arm.pub) = eddfc12a736084d1cbc12fe3c3171952880244e04b42f29476b18699a7e3ed62
-SHA256 (cubieboard-arm.httpup) = 13f6f29dd13f2a3570650b048fc22f92d69dd8b980f10473c177db463f17d69b
+SHA256 (cubieboard-arm.rsync) = 5f11b7dbf537b4e01fb40012919e389720229aacdb70a0a52dcaa5f3aaeb35d4
 SHA256 (cubieboard-arm.pub) = 154c8c7abdb758c615fb6194aba289cece97ef089120125908ebfc703ece9131

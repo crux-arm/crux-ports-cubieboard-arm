@@ -1,0 +1,3 @@
+host=crux.nu
+collection=crux-arm/cubieboard-arm/3.8/
+destination=/usr/ports/cubieboard-arm
